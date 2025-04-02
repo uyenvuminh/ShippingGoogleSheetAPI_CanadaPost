@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\New folder\\TestSheet\\TestSheet.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\New folder\\TestSheetClient\\TestSheetClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
